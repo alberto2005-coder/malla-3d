@@ -1,6 +1,18 @@
 # Malla 3D
 
 Prototipo independiente de editor 3D. El nombre es provisional. No incorpora código, recursos ni marca de Blender.
+
+## Documentación
+
+Toda la documentación vive en [`docs/`](docs/README.md):
+
+- [Guía de usuario](docs/usuario.md) — interfaz, modos de edición y atajos
+- [Formato de escena](docs/formato-escena.md) — especificación de `malla-scene` v1
+- [Arquitectura](docs/arquitectura.md) — módulos y flujo de datos
+- [Desarrollo](docs/desarrollo.md) — entorno, scripts y pruebas
+- [Checklist de release](docs/release.md) — cómo publicar una versión
+- [Licencias](docs/licencias.md) — licencia propia y dependencias
+
 ## Ejecutar
 
 Requiere Node.js 22.12 o posterior.
