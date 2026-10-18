@@ -46,6 +46,6 @@ npm run build
 ```
 ## Licencias
 
-**Política prevista; no es aún un texto de licencia ni asesoría legal.** El código se publicará bajo términos personalizados de código disponible, no como open source formal: no se contempla la venta ni el uso comercial del código o de forks sin autorización escrita. El ejecutable oficial podrá ejecutarse sin costo; su redistribución o venta requerirá autorización. Los forks y usos deberán conservar una marca Malla visible. La interfaz ya muestra el aviso y el JSON de escena conserva metadata de marca.
+**Licencia de Código Disponible No Comercial de Malla 3D**, texto completo en [LICENSE](LICENSE). No es open source formal: no se contempla la venta ni el uso comercial del código o de forks sin autorización escrita. El ejecutable oficial se ejecuta sin costo; su redistribución o venta requiere autorización. Los forks y usos deberán conservar una marca Malla visible y no eliminar la marca de agua ni el aviso `NO COMERCIAL` de la interfaz ni del JSON de escena. La ejecución del binario oficial es gratuita.
 
-Antes de distribuir públicamente el código o los binarios, redactar y revisar legalmente la licencia completa y comprobar las licencias/avisos de dependencias y recursos. Los formatos de imagen y vídeo aún no se exportan, por lo que todavía no hay marca de agua visible en esos resultados.
+El texto de la licencia es provisional y conviene revisarlo legalmente antes de la distribución amplia; se debe comprobar también que los avisos y licencias de dependencias y recursos (Electron, Chromium, React, Three.js) se conservan en los binarios. Los formatos de imagen y vídeo aún no se exportan, por lo que todavía no hay marca de agua visible en esos resultados.

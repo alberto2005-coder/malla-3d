@@ -1,0 +1,138 @@
+LICENCIA DE CÓDIGO DISPONIBLE NO COMERCIAL — "Malla 3D"
+========================================================
+
+Copyright (c) 2026 Alberto Ortiz ("el autor"). Todos los derechos reservados.
+
+English summary: this project is **source-available under a non-commercial
+license**; it is NOT free software nor open source. The Spanish text below is
+the governing version.
+
+AVISO IMPORTANTE: este proyecto NO es software libre ni software de código
+abierto ("open source") en los términos de la Open Source Initiative ni de la
+Free Software Foundation. Se publica únicamente como código disponible
+("source available") bajo los términos que siguen.
+
+1. OBJETO
+---------
+La presente licencia regula el código fuente del proyecto Malla 3D, su
+documentación y los ejecutables oficiales generados a partir de él (en
+conjunto, "el Software").
+
+2. CONCESIÓN
+------------
+Sujeto al cumplimiento íntegro de esta licencia, el autor concede al usuario
+una licencia limitada, mundial, no exclusiva, revocable y no transferible
+para:
+
+   a) descargar, instalar y ejecutar el Software para uso privado y no
+      comercial;
+   b) leer, estudiar y modificar el código fuente para uso privado y no
+      comercial;
+   c) realizar copias privadas y de seguridad del Software.
+
+3. EJECUTABLES OFICIALES
+------------------------
+La ejecución del ejecutable oficial no tiene coste económico para el usuario.
+
+Queda prohibida, salvo autorización previa y escrita del autor, la
+redistribución pública, reventa, alquiler, préstamo, ofrecimiento comercial,
+enajenación o puesta a disposición del Software o de ejecutables compilados a
+partir de su código, incluida su distribución mediante tiendas de
+aplicaciones, medios físicos, servicios de hosting de terceros, paquetes de
+sistemas operativos o cualquier otro canal análogo.
+
+4. USO COMERCIAL
+----------------
+Queda prohibido cualquier uso comercial del Software, incluyendo pero no
+limitado a su venta, alquiler, licencia a terceros con fines de lucro, uso
+como servicio, integración en un producto comercial o su explotación en
+cualquier modalidad lucrativa, salvo autorización escrita del autor.
+
+Esta restricción se refiere exclusivamente al Software (código fuente,
+ejecutables y recursos). Las escenas, modelos 3D u otros archivos creados por
+el usuario con el Software no forman parte del Software: su titularidad y su
+explotación corresponden al usuario, sin que esta licencia le otorgue derecho
+alguno sobre el código del proyecto.
+
+5. MARCA, AVISOS Y MARCA DE AGUA
+---------------------------------
+El usuario debe, siempre que distribuya el Software o una versión derivada de
+él:
+
+   a) conservar intactos los avisos de copyright y de marca visibles del
+      Software, incluida la denominación "Malla";
+   b) no eliminar ni ocultar la marca de agua ni el aviso "NO COMERCIAL" de
+      la interfaz de usuario ni del JSON de escena exportado;
+   c) mantener la denominación "Malla" de forma visible en la aplicación;
+   d) no emplear la marca "Malla", sus logotipos ni elementos gráficos para
+      promocionar productos o servicios de terceros, ni para sugerir
+      patrocinio, respaldo o relación oficial con el autor.
+
+6. FORKS Y MODIFICACIONES
+-------------------------
+Se permite crear forks del proyecto y distribuir modificaciones del mismo
+siempre que concurran simultáneamente estas condiciones:
+
+   a) la distribución sea sin ánimo de lucro y no implique ninguna de las
+      prohibiciones de los apartados 3 y 4;
+   b) la modificación cumpla íntegramente esta licencia y conserve sus
+      avisos y restricciones;
+   c) se ponga a disposición del destinatario el código fuente completo de la
+      versión modificada, de forma accesible y gratuita;
+   d) no se utilice un nombre, dominio, marca o apariencia que induzca a
+      creer que la modificación es una versión oficial del autor.
+
+La distribución comercial de forks requiere autorización previa y escrita del
+autor.
+
+7. CONTRIBUCIONES
+-----------------
+Toda contribución voluntaria enviada al repositorio se considera licenciada
+por su autor al titular del proyecto bajo los mismos términos de esta
+licencia, con carácter no exclusivo, gratuito y perpetuo para su integración
+en el proyecto.
+
+8. DEPENDENCIAS DE TERCEROS
+---------------------------
+El Software incorpora componentes de terceros (entre otros, Electron,
+Chromium, React y Three.js) que se distribuyen bajo sus propias licencias.
+La presente licencia no modifica, limita ni sustituye dichas licencias. Los
+textos íntegros de las licencias de estos componentes acompañan a los
+ejecutables oficiales (por ejemplo, LICENSE.electron.txt y
+LICENSES.chromium.html) y a los respectivos repositorios de origen.
+
+9. AUSENCIA DE GARANTÍA
+-----------------------
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA
+O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIZACIÓN,
+IDONEIDAD PARA UN FIN DETERMINADO, AUSENCIA DE DEFECTOS O INFRACCIÓN DE
+DERCHOS DE TERCEROS. EL USUARIO ASUME TODO EL RIESGO DERIVADO DEL USO DEL
+SOFTWARE.
+
+10. LIMITACIÓN DE RESPONSABILIDAD
+---------------------------------
+EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL AUTOR NO SERÁ
+RESPONSABLE DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL,
+CONSECUENCIAL O PUNITIVO DERIVADO DEL USO O LA IMPOSIBILIDAD DE USO DEL
+SOFTWARE, INCLUIDOS LA PÉRDIDA DE DATOS O LAS DECISIONES TOMADAS A PARTIR DE
+SUS RESULTADOS.
+
+11. TERMINACIÓN
+---------------
+Los derechos concedidos por esta licencia terminan automáticamente en caso de
+incumplimiento de cualquiera de sus condiciones. De producirse dicha
+terminación, el usuario deberá cesar de inmediato en el uso del Software y
+destruir todas las copias en su poder, incluidas las derivadas.
+
+12. LEGISLACIÓN APLICABLE
+-------------------------
+Esta licencia se rige por las leyes del Estado español. Para cualquier
+controversia derivada del Software serán competentes los juzgados y tribunales
+del domicilio del autor, salvo que la normativa imperativa de consumo imponga
+otro fuero.
+
+13. CARÁCTER PROVISIONAL
+-------------------------
+El autor podrá publicar versiones posteriores de esta licencia. El texto
+aplicable a cada versión del Software es el que se encuentre incluido en el
+repositorio y en la release correspondiente en el momento de su obtención.
