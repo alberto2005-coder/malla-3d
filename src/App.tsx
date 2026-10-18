@@ -458,7 +458,7 @@ function App() {
           <IconButton icon={Undo2} label="Deshacer" disabled={!historyState.canUndo} onClick={undo} />
           <IconButton icon={Redo2} label="Rehacer" disabled={!historyState.canRedo} onClick={redo} />
           <span className="topbar-divider" />
-          <button className="save-button" onClick={saveScene} type="button">
+          <button aria-label="Guardar" className="save-button" onClick={saveScene} type="button">
             <Save aria-hidden="true" size={15} />
             <span>Guardar</span>
           </button>

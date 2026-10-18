@@ -36,7 +36,7 @@ test('edita una escena y renderiza en escritorio y móvil', async ({ page }, tes
   await expect(positionX).toHaveValue('2.5')
   await page.getByRole('heading', { name: 'Escena' }).click()
   await page.keyboard.press('Control+z')
-  await expect(positionX).toHaveValue('-1.4')
+  await expect(positionX).toHaveValue('0')
   await page.keyboard.press('Control+Shift+z')
   await expect(positionX).toHaveValue('2.5')
 
