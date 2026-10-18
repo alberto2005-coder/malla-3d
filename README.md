@@ -8,6 +8,21 @@ Requiere Node.js 22.12 o posterior.
 npm install
 npm run dev
 ```
+
+### Ejecutar o generar versión de escritorio (.exe)
+
+```bash
+# Probar la app de escritorio directamente
+npm run electron:start
+
+# Generar los ejecutables (.exe) de Windows
+npm run dist
+```
+Los ejecutables se generan en la carpeta `release/`:
+- `release/Malla 3D-Portable-0.1.0.exe`: Ejecutable único y portable (no requiere instalación).
+- `release/Malla 3D Setup 0.1.0.exe`: Instalador completo para Windows.
+- `release/win-unpacked/Malla 3D.exe`: Carpeta de la app lista para abrir.
+
 ## Alcance actual
 
 - Escena 3D interactiva con órbita, zoom y cuadrícula.
