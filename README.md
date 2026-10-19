@@ -11,6 +11,7 @@ Toda la documentación vive en [`docs/`](docs/README.md):
 - [Arquitectura](docs/arquitectura.md) — módulos y flujo de datos
 - [Desarrollo](docs/desarrollo.md) — entorno, scripts y pruebas
 - [Checklist de release](docs/release.md) — cómo publicar una versión
+- [Plan de mejora / roadmap](docs/roadmap.md) — fases hacia un modelado completo
 - [Licencias](docs/licencias.md) — licencia propia y dependencias
 
 ## Ejecutar

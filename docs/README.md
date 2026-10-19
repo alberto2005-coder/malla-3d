@@ -10,6 +10,7 @@ Documentación del proyecto **Malla 3D**, editor 3D independiente de escritorio
 | [arquitectura.md](arquitectura.md) | Desarrolladores | Estructura del código, módulos, flujo de datos y decisiones técnicas |
 | [desarrollo.md](desarrollo.md) | Desarrolladores | Entorno, scripts, pruebas, lint y empaquetado |
 | [release.md](release.md) | Mantenedor | Checklist para publicar una versión (build, verificación, tag, upload) |
+| [roadmap.md](roadmap.md) | Mantenedor / colaboradores | Plan de mejora: fases hacia un modelado completo (Blender + SketchUp) |
 | [licencias.md](licencias.md) | Todos | Licencia propia y licencias de dependencias de terceros |
 
 ## Resumen del proyecto
