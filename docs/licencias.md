@@ -2,19 +2,7 @@
 
 ## Licencia del proyecto
 
-Malla 3D se publica bajo una **licencia propia de código disponible no
-comercial**: [LICENSE](../LICENSE) en la raíz del repositorio.
-
-En corto:
-
-- No es software libre ni open source (no está avalada por la OSI).
-- Uso, estudio y modificación privados y no comerciales: permitidos.
-- Ejecutar el binario oficial: sin coste.
-- Vender, usar comercialmente o redistribuir binarios: requiere autorización
-  escrita del autor.
-- Los forks no comerciales deben conservar el nombre y la marca «Malla», la
-  marca de agua de la interfaz y el aviso `NO COMERCIAL` del JSON de escena.
-- Las escenas y modelos 3D creados por el usuario son del usuario.
+Malla 3D se publica bajo**: [LICENSE](../LICENSE) en la raíz del repositorio.
 
 El texto completo manda siempre: léelo en [LICENSE](../LICENSE).
 
