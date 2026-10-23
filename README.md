@@ -32,8 +32,8 @@ npm run electron:start
 npm run dist
 ```
 Los ejecutables se generan en la carpeta `release/`:
-- `release/Malla 3D-Portable-1.0.0.exe`: Ejecutable único y portable (no requiere instalación).
-- `release/Malla 3D Setup 1.0.0.exe`: Instalador completo para Windows.
+- `release/Malla 3D-Portable-1.0.1.exe`: Ejecutable único y portable (no requiere instalación).
+- `release/Malla 3D Setup 1.0.1.exe`: Instalador completo para Windows.
 - `release/win-unpacked/Malla 3D.exe`: Carpeta de la app lista para abrir.
 
 ## Alcance actual
@@ -101,8 +101,8 @@ npm run electron:start
 npm run dist
 ```
 The executables are generated in the `release/` folder:
-- `release/Malla 3D-Portable-1.0.0.exe`: Single portable executable (no installation required).
-- `release/Malla 3D Setup 1.0.0.exe`: Full Windows installer.
+- `release/Malla 3D-Portable-1.0.1.exe`: Single portable executable (no installation required).
+- `release/Malla 3D Setup 1.0.1.exe`: Full Windows installer.
 - `release/win-unpacked/Malla 3D.exe`: App folder ready to open.
 
 ## Current Scope
